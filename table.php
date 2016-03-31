@@ -2,6 +2,7 @@
 
 	// table.php
 	
+
 	//getting our config
 	require_once("../../config.php");
 	
