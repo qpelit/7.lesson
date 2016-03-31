@@ -1,5 +1,4 @@
 <?php
-
 	// require another php file
 	// ../../../ => 3 folders back
 	require_once("../../config.php");
